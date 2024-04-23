@@ -6,7 +6,7 @@ class Mahasiswa
 public:
    string nama;
    int umur;
-   string
+   string jurusan;
 };
 
 Mahasiswa(::Mahasiswa((/* args */)
