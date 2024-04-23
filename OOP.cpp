@@ -15,10 +15,20 @@ public:
    }
 };
 
-Mahasiswa(::Mahasiswa((/* args */)
+
+class Matakuliah
+{
+private:
+   /* data */
+public:
+   Matakuliah(/* args */);
+   ~Matakuliah();
+};
+
+Matakuliah::Matakuliah(/* args */)
 {
 }
 
-Mahasiswa(::~Mahasiswa(()
+Matakuliah::~Matakuliah()
 {
 }
