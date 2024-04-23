@@ -19,12 +19,13 @@ public:
 class Matakuliah
 {
 private:
-  string kodeMk;
-  string namaMk;
-  int sks;
+   string kodeMk;
+   string namaMk;
+   int sks;
 public:
-   Matakuliah(/* args */);
-   ~Matakuliah();
+  void input(){
+   
+  }
 };
 
 Matakuliah::Matakuliah(/* args */)
