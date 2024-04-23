@@ -10,8 +10,8 @@ public:
 
    void output(){
       cout << "Nama:" << nama << endl;
-      cout << "Nama:" << umur << endl;
-     
+      cout << "Umur:" << umur << endl;
+      cout << "Jurusan:" << jurusan << endl;
    }
 };
 
