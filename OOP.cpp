@@ -19,7 +19,9 @@ public:
 class Matakuliah
 {
 private:
-   /* data */
+  string kodeMk;
+  string namaMk;
+  int sks;
 public:
    Matakuliah(/* args */);
    ~Matakuliah();
