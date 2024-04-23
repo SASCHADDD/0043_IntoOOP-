@@ -16,7 +16,7 @@ public:
        cin >> Lebar;
     }
     float hitungLuas () {
-        retur panjang * Lebar;
+        return panjang * Lebar;
     }
 
     void display(){
