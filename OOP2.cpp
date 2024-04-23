@@ -28,5 +28,5 @@ public:
 };
 
 int main (){
-    bangunDatar ppp;
+    bangunDatar pp;
 }
