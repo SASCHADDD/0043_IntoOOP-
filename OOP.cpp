@@ -31,6 +31,10 @@ public:
       cout << "SKS:";
       cin >> sks;
   }
+
+  void output(){
+   
+  }
 };
 
 Matakuliah::Matakuliah(/* args */)
