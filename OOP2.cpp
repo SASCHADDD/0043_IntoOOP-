@@ -4,9 +4,17 @@ using namespace std;
 class bangunDatar
 {
 private:
-    float Luas;
+    float panjang,Lebar;
 public:
-    float panja
+    float Luas;
+
+    void input(){ //methode input persegi panjang
+
+       cout << "Masukan Panjangnya =";
+       cin >> panjang;
+       cout << "Masukan Lebarnya = ";
+       cin >> Lebar;
+    }
 };
 
 bangunDatar::bangunDatar(/* args */)
