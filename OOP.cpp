@@ -24,7 +24,12 @@ private:
    int sks;
 public:
   void input(){
-   
+      cout << "Kode MK : ";
+      cin >> kodeMk;
+      cout << "nama Mk : ";
+      cin >> namaMk;
+      cout << "SKS:";
+      cin >> sks;
   }
 };
 
