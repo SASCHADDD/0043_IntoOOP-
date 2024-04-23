@@ -27,10 +27,6 @@ public:
 
 };
 
-bangunDatar::bangunDatar(/* args */)
-{
-}
-
-bangunDatar::~bangunDatar()
-{
+int main (){
+    bangunDatar ppp;
 }
